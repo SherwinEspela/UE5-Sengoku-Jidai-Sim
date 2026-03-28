@@ -73,3 +73,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SengokuJidaiSim/Content/__ExternalActors__/
+SengokuJidaiSim/Content/Characters/
+SengokuJidaiSim/Content/Cursor/
+SengokuJidaiSim/Content/LevelPrototyping/
+SengokuJidaiSim/Content/TopDown/
+SengokuJidaiSim/Saved/
+SengokuJidaiSim/Intermediate/
+SengokuJidaiSim/DerivedDataCache/
+SengokuJidaiSim/Content/__ExternalObjects__/
